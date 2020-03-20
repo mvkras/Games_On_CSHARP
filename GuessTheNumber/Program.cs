@@ -1,4 +1,5 @@
-﻿using System;
+﻿using A_GuessTheNumber;
+using System;
 
 namespace GuessTheNumber
 {
@@ -6,7 +7,8 @@ namespace GuessTheNumber
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            GuessNumberGame game = new GuessNumberGame();
+            game.Start();
         }
     }
 }

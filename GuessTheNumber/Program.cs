@@ -9,6 +9,7 @@ namespace GuessTheNumber
         {
             GuessNumberGame game = new GuessNumberGame();
             game.Start();
+            
         }
     }
 }

@@ -13,9 +13,9 @@ namespace A_GuessTheNumber
     {      
         private readonly int max;
         private readonly int maxTries;
-        private readonly GuessingPlayer guessingPlayer;
+        private  GuessingPlayer guessingPlayer;
         //создаем конструктор с полями:
-        public GuessNumberGame(int max = 100, int maxTries = 7, GuessingPlayer guessingPlayer = GuessingPlayer.Human)
+        public GuessNumberGame(int max = 100, int maxTries = 7, GuessingPlayer guessingPlayer = GuessingPlayer.Computer)
         {
             this.max = max;
             this.maxTries = maxTries;
@@ -64,16 +64,17 @@ namespace A_GuessTheNumber
                     }
                     else
                     {
-                        Console.WriteLine($"Перебор! Твои число больше загаданного! Попытка: {tries}.");
+                        Console.WriteLine($"Перебор! Твоe число больше загаданного! Попытка: {tries}.");
                     }
                     tries++; //Количество попыток увеличивается с каждым ходом, достигнет 6, игра окончена
-                    if (tries == maxTries)
-                    {
-                        Console.WriteLine("Game Over! Ты не отгадал за 6 попыток!");
-                        break;
-                    }
+                   
                   }
-                    else
+                if (tries == maxTries)
+                {
+                    Console.WriteLine($"Game Over! Ты не отгадал число: {guessNumber} за 6 попыток!");
+                    break;
+                }
+                else
                     {
                         Console.WriteLine("Вы ввели не число, попробуйте еще раз.");
                     }
@@ -121,7 +122,7 @@ namespace A_GuessTheNumber
             {
                 //необходимо брать серединное значение, то есть каждый раз диапазон делить на 2
                 lastGuess = (max + min) / 2; //будет изначально браться 50
-                Console.WriteLine($"Вы загадали это число? {lastGuess}");
+                Console.WriteLine($"Вы загадали это число? {lastGuess}. Попытка: {tries}.");
                 Console.WriteLine("Если да, напишите 'yes'");
                 Console.WriteLine("Если число компьютера меньше вашего, напишите 'b' (bigger)");
                 Console.WriteLine("Если число компьютера больше вашего, напишите 'l'(less/lower)");
@@ -146,10 +147,11 @@ namespace A_GuessTheNumber
                     Console.WriteLine("Не пытайся обмануть компьютер! Число компьютера равно твоему! Машины выйграли!");
                 }
                 tries++;
-                if(tries == maxTries)
-                {
-                    Console.WriteLine("Game Over. Компьютер проиграл");
-                }
+               
+            }
+            if (tries == maxTries)
+            {
+                Console.WriteLine("Game Over. Компьютер проиграл");
             }
 
         }

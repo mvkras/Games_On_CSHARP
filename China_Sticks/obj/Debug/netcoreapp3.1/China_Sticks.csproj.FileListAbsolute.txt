@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Games_On_CSharp\China_Sticks\bin\Debug\netcoreapp3.1\China_Sticks.exe
+C:\Users\User\source\repos\Games_On_CSharp\China_Sticks\bin\Debug\netcoreapp3.1\China_Sticks.deps.json
+C:\Users\User\source\repos\Games_On_CSharp\China_Sticks\bin\Debug\netcoreapp3.1\China_Sticks.runtimeconfig.json
+C:\Users\User\source\repos\Games_On_CSharp\China_Sticks\bin\Debug\netcoreapp3.1\China_Sticks.runtimeconfig.dev.json
+C:\Users\User\source\repos\Games_On_CSharp\China_Sticks\bin\Debug\netcoreapp3.1\China_Sticks.dll
+C:\Users\User\source\repos\Games_On_CSharp\China_Sticks\bin\Debug\netcoreapp3.1\China_Sticks.pdb
+C:\Users\User\source\repos\Games_On_CSharp\China_Sticks\obj\Debug\netcoreapp3.1\China_Sticks.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Games_On_CSharp\China_Sticks\obj\Debug\netcoreapp3.1\China_Sticks.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Games_On_CSharp\China_Sticks\obj\Debug\netcoreapp3.1\China_Sticks.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Games_On_CSharp\China_Sticks\obj\Debug\netcoreapp3.1\China_Sticks.AssemblyInfo.cs
+C:\Users\User\source\repos\Games_On_CSharp\China_Sticks\obj\Debug\netcoreapp3.1\China_Sticks.dll
+C:\Users\User\source\repos\Games_On_CSharp\China_Sticks\obj\Debug\netcoreapp3.1\China_Sticks.pdb
+C:\Users\User\source\repos\Games_On_CSharp\China_Sticks\obj\Debug\netcoreapp3.1\China_Sticks.genruntimeconfig.cache

@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace B_Tic_Tac_Toe
+namespace D_Believe_Or_Not
 {
-    class Program //Игра в палочки
+    class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
         }
-        
     }
 }

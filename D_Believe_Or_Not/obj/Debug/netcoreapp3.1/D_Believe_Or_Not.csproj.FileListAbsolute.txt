@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\bin\Debug\netcoreapp3.1\Questions.csv
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\bin\Debug\netcoreapp3.1\D_Believe_Or_Not.exe
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\bin\Debug\netcoreapp3.1\D_Believe_Or_Not.deps.json
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\bin\Debug\netcoreapp3.1\D_Believe_Or_Not.runtimeconfig.json
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\bin\Debug\netcoreapp3.1\D_Believe_Or_Not.runtimeconfig.dev.json
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\bin\Debug\netcoreapp3.1\D_Believe_Or_Not.dll
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\bin\Debug\netcoreapp3.1\D_Believe_Or_Not.pdb
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\obj\Debug\netcoreapp3.1\D_Believe_Or_Not.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\obj\Debug\netcoreapp3.1\D_Believe_Or_Not.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\obj\Debug\netcoreapp3.1\D_Believe_Or_Not.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\obj\Debug\netcoreapp3.1\D_Believe_Or_Not.AssemblyInfo.cs
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\obj\Debug\netcoreapp3.1\D_Believe_Or_Not.dll
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\obj\Debug\netcoreapp3.1\D_Believe_Or_Not.pdb
+C:\Users\User\source\repos\Games_On_CSharp\D_Believe_Or_Not\obj\Debug\netcoreapp3.1\D_Believe_Or_Not.genruntimeconfig.cache

@@ -14,12 +14,15 @@ namespace B_Tic_Tac_Toe
             //запустим цикл
             while (g.GetWinner() == Winner.GameIsUnfinished ) //пока игра не окончена - мы продолжаем игру
             {
+                Console.WriteLine("Напишите индекс, куда поставить знак Х либо О");
                 int index = int.Parse(Console.ReadLine()); //получили индекс
                 g.MakeMove(index); // передаем индекс туда 
-               
+                
                 Console.WriteLine(); //отступ строки
                 Console.WriteLine(GetPrintState()); //выводим текущее состояние
+                
             }
+            
             Console.WriteLine($"Выиграл - {g.GetWinner()}"); //когда игра закончилась
         }
 

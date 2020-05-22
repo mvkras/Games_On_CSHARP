@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Games_On_CSharp\SnakeOnWinForms\bin\Debug\SnakeOnWinForms.exe.config
+C:\Users\User\source\repos\Games_On_CSharp\SnakeOnWinForms\bin\Debug\SnakeOnWinForms.exe
+C:\Users\User\source\repos\Games_On_CSharp\SnakeOnWinForms\bin\Debug\SnakeOnWinForms.pdb
+C:\Users\User\source\repos\Games_On_CSharp\SnakeOnWinForms\obj\Debug\SnakeOnWinForms.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Games_On_CSharp\SnakeOnWinForms\obj\Debug\SnakeOnWinForms.Form1.resources
+C:\Users\User\source\repos\Games_On_CSharp\SnakeOnWinForms\obj\Debug\SnakeOnWinForms.Properties.Resources.resources
+C:\Users\User\source\repos\Games_On_CSharp\SnakeOnWinForms\obj\Debug\SnakeOnWinForms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Games_On_CSharp\SnakeOnWinForms\obj\Debug\SnakeOnWinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Games_On_CSharp\SnakeOnWinForms\obj\Debug\SnakeOnWinForms.exe
+C:\Users\User\source\repos\Games_On_CSharp\SnakeOnWinForms\obj\Debug\SnakeOnWinForms.pdb

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Games_On_CSharp\E_Gallows\bin\Debug\netcoreapp3.1\E_Gallows.exe
+C:\Users\User\source\repos\Games_On_CSharp\E_Gallows\bin\Debug\netcoreapp3.1\E_Gallows.deps.json
+C:\Users\User\source\repos\Games_On_CSharp\E_Gallows\bin\Debug\netcoreapp3.1\E_Gallows.runtimeconfig.json
+C:\Users\User\source\repos\Games_On_CSharp\E_Gallows\bin\Debug\netcoreapp3.1\E_Gallows.runtimeconfig.dev.json
+C:\Users\User\source\repos\Games_On_CSharp\E_Gallows\bin\Debug\netcoreapp3.1\E_Gallows.dll
+C:\Users\User\source\repos\Games_On_CSharp\E_Gallows\bin\Debug\netcoreapp3.1\E_Gallows.pdb
+C:\Users\User\source\repos\Games_On_CSharp\E_Gallows\obj\Debug\netcoreapp3.1\E_Gallows.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Games_On_CSharp\E_Gallows\obj\Debug\netcoreapp3.1\E_Gallows.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Games_On_CSharp\E_Gallows\obj\Debug\netcoreapp3.1\E_Gallows.AssemblyInfo.cs
+C:\Users\User\source\repos\Games_On_CSharp\E_Gallows\obj\Debug\netcoreapp3.1\E_Gallows.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Games_On_CSharp\E_Gallows\obj\Debug\netcoreapp3.1\E_Gallows.dll
+C:\Users\User\source\repos\Games_On_CSharp\E_Gallows\obj\Debug\netcoreapp3.1\E_Gallows.pdb
+C:\Users\User\source\repos\Games_On_CSharp\E_Gallows\obj\Debug\netcoreapp3.1\E_Gallows.genruntimeconfig.cache

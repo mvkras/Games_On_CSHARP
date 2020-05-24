@@ -10,3 +10,4 @@ C:\Users\User\source\repos\Games_On_CSharp\IndexMassOfBody\obj\Debug\netcoreapp3
 C:\Users\User\source\repos\Games_On_CSharp\IndexMassOfBody\obj\Debug\netcoreapp3.1\G_IndexMassOfBody.dll
 C:\Users\User\source\repos\Games_On_CSharp\IndexMassOfBody\obj\Debug\netcoreapp3.1\G_IndexMassOfBody.pdb
 C:\Users\User\source\repos\Games_On_CSharp\IndexMassOfBody\obj\Debug\netcoreapp3.1\G_IndexMassOfBody.genruntimeconfig.cache
+C:\Users\User\source\repos\Games_On_CSharp\IndexMassOfBody\obj\Debug\netcoreapp3.1\G_IndexMassOfBody.csprojAssemblyReference.cache
